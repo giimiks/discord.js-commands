@@ -43,5 +43,5 @@ request.get('https://onemocneni-aktualne.mzcr.cz/api/v3/zakladni-prehled?page=1&
 
             )
         /* Do kanálu, ve kterém byl zadán příkaz bot pošle tento embed */
-        message.channel.send(embed) //Pro Discord.js v13 změnit na ({embeds: {embed}})
+        message.channel.send(embed) //Pro Discord.js v13 změnit na ({embeds: [embed]})
     })
