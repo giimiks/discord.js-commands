@@ -1,1 +1,1 @@
-# Nice commands for you Discord bot, ready to go
+# Nice commands for your Discord bot, ready to go
